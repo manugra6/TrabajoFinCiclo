@@ -8,7 +8,7 @@
     - Tipos de datos básicos: datos numéricos, booleanos; explicación de uso de variables, entradas y salidas, cadena de caracteres; y diferentes ejercicios de ejemplo de estos mismos.
     - Estructuras de control: estructuras if, if-else con sus respectivos ejercicios de ejemplo; estructura del while, estructura del for con uso de funciones como range, y contadores, acomuladores e indicadores, con sus ejercicios de ejemplo vistos.
 
-# 2/4 -> 8/4
+# 9/4 -> 15/4
 ## Introduccion a python3
   - Estructuras de control: ejercicios 3, 6, 10, 12.
   - Tipos de datos secuencia: vistos todas las lecciones sobre cadena de caracteres y listas. Ejercicios realizados: 3, 10, 15.
