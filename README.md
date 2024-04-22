@@ -22,3 +22,17 @@
   - Terminado el tema de Estructura del lenguaje, enseña como estructurar de una manera eficiente un programa, los diferentes tipos de datos y el trabajo con variables.
   - Tipos de datos numéricos: datos numéricos y sus variantes (int, float...) y datos booleanos
   - Estructuras de control: visto los arrays, sus métodos principales, y las operaciones avanzadas y las tuplas.
+
+# 16/4 -> 22/4
+## Introducción a python 3
+  - Funciones: ejercicios 5, 8 y 13.
+  - Objetos: ejercicio 2.
+## Python 3
+  - Estructuras de control: he completado el tema después de revisar los ejercicios. realizé el ejercicio 5 de alternativas, el 4 y el 6 de repetitivas.
+  - Tipos de datos secuenciales: he revisado todas las lecciones. los ejercicios que resolví fueron el ejercicio 3 de cadenas y el 3 y 4 de listas.
+  - Tipos de datos mapas (diccionarios): he revisado los métodos y ejercicios relacionados.
+  - Manipulación de archivos: he revisado los contenidos relacionados con archivos de texto, CSV y JSON.
+  - Errores y excepciones: he revisado estos temas.
+  - Módulos, paquetes y espacios de nombres (namespaces): he revisado los conceptos sobre módulos y paquetes, y también he visto los videos sobre módulos estándar y la instalación de módulos externos.
+  - Programación estructurada y modular: he revisado todos los videos sobre funciones y he visto el ejemplo completo.
+  - Examen aprobado en el segundo intento.
