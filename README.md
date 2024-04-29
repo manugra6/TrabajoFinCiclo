@@ -36,3 +36,20 @@
   - Módulos, paquetes y espacios de nombres (namespaces): he revisado los conceptos sobre módulos y paquetes, y también he visto los videos sobre módulos estándar y la instalación de módulos externos.
   - Programación estructurada y modular: he revisado todos los videos sobre funciones y he visto el ejemplo completo.
   - Examen aprobado en el segundo intento.
+# 23/4 -> 30/4
+## Desarrollador y Tester en Python
+- Consumo de información de un servicio web Restful con Python requests
+- Trabajo de concurrencia en Python
+- Herramientas de Testing para Python
+- Testing en Python
+
+## DataScience con Python
+### Curso de Numpy con Python:
+- Introducción completada.
+- Conceptos básicos: creación de arrays, tipos de datos, indexado y recorrido de arrays, máscaras, trabajando con fechas, constantes.
+- Operaciones con NumPy: rutinas de creación y manipulación de arrays, cadenas, álgebra lineal, funciones lógicas, matemáticas y estadísticas.
+
+### Curso de tratamiento de datos con Pandas:
+- Introducción vista.
+- Estructuras de datos: series, DataFrames, lectura y escritura, indexado y selección de datos (Parte I y II), MultiIndex, Timeseries y Timestamp, Timedelta.
+- Operaciones con DataFrames: operaciones básicas y datos missing.
