@@ -48,8 +48,16 @@
 - Introducción completada.
 - Conceptos básicos: creación de arrays, tipos de datos, indexado y recorrido de arrays, máscaras, trabajando con fechas, constantes.
 - Operaciones con NumPy: rutinas de creación y manipulación de arrays, cadenas, álgebra lineal, funciones lógicas, matemáticas y estadísticas.
-
 ### Curso de tratamiento de datos con Pandas:
 - Introducción vista.
 - Estructuras de datos: series, DataFrames, lectura y escritura, indexado y selección de datos (Parte I y II), MultiIndex, Timeseries y Timestamp, Timedelta.
 - Operaciones con DataFrames: operaciones básicas y datos missing.
+
+# 1/5->7/5
+## DataScience con python
+### Curso de tratamiento de datos con Pandas:
+- Operaciones con DataFrames: terminado **Operaciones entre dataFrames**, que habla sobre todo de concatenaciones de dos dataframes diferentes, **tablas pivotantes**, se utiliza para mover datos de filas a colummnas y viceversa, **agrupaciones**, que sus principales funciones son Dividir los datos en grupos según algunos criterios, aplicar una función a cada grupo de forma independiente y combinar los resultados en una estructura de datos. Y por ultimo la **visualización**, que es basicamente la realización de gráficas para un dataframe.
+
+### Manipulación de DataFrames con pandas
+- Vista la introducción.
+- Manipulando Dataframes con Pandas: visto el video de **introducción de los dataframes**, y el primer y segundo video sobre **fechas** que habla sobre el calculo y manipulación de fechas y horas, tambien visto el video sobre **missing data**, para tratar valores nulos.
