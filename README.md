@@ -57,6 +57,7 @@
 ## DataScience con python
 ### Curso de tratamiento de datos con Pandas:
 - Operaciones con DataFrames: terminado **Operaciones entre dataFrames**, que habla sobre todo de concatenaciones de dos dataframes diferentes, **tablas pivotantes**, se utiliza para mover datos de filas a colummnas y viceversa, **agrupaciones**, que sus principales funciones son Dividir los datos en grupos según algunos criterios, aplicar una función a cada grupo de forma independiente y combinar los resultados en una estructura de datos. Y por ultimo la **visualización**, que es basicamente la realización de gráficas para un dataframe.
+- Examen aprobado en el primer intento
 
 ### Manipulación de DataFrames con pandas
 - Vista la introducción.
