@@ -51,7 +51,7 @@
 ### Curso de tratamiento de datos con Pandas:
 - Introducción vista.
 - Estructuras de datos: series, DataFrames, lectura y escritura, indexado y selección de datos (Parte I y II), MultiIndex, Timeseries y Timestamp, Timedelta.
-- Operaciones con DataFrames: operaciones básicas y datos missing.
+- Operaciones con DataFrames: **operaciones básicas**, enseña funciones basicas para mostrar y hacer calculos sencillos con los DataFrames, y **datos missing**, enseña a tratar con los datos NaN, desde cambiarlos hasta borrarlos.
 
 # 1/5->7/5
 ## DataScience con python
