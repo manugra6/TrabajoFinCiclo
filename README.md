@@ -63,3 +63,30 @@
 ### Manipulación de DataFrames con pandas
 - Vista la introducción.
 - Manipulando Dataframes con Pandas: visto el video de **introducción de los dataframes**, y el primer y segundo video sobre **fechas** que habla sobre el calculo y manipulación de fechas y horas, tambien visto el video sobre **missing data**, para tratar valores nulos.
+# 8/5-> 13/05
+## Manipulación de DataFrames con Pandas
+- Manipulando Dataframes con Pandas: visto el video sobre **concatenar** utilizando el pd.concat() para juntar dos o mas tablas pudiedo filtrar filas o columnas para sacar datos especificos, visto tambien **Merging y Join** con pd.merge() y join(), se nos permite combinar DataFrames utilizando uno o más campos como claves de unión, realizando operaciones de unión interna, externa, izquierda o derecha según se necesite para el análisis de datos,y por últimos **Group by** que utilizando la función groupby() podemos agrupar datos en función de una o más columnas y luego realizar operaciones de resumen como suma, media, desviación estándar y descripciones estadísticas sobre los grupos creados.
+- Aprobado el examen.
+
+## Curso de Visualización de datos con Pyhton
+- Introducción: nos cuenta un breve resumen de los contenido y enseña a instalar conda para su uso para los ejercicios.
+- Matplotlib: visto el video de **mi primer gráfico** que muestra un ejemplo de como crear un gráfico simple con la librería, **gráficos básicos 1 y 2** que nos enseña a crear diferentes tipos de gráficos con los dataframes, los gráficos son: líneas, barras, histograma, de puntos, tarta y tablas, tambien nos enseña a hacer un mapa de calor que lo hace con un gráfico de colores, **Subplots** que basicamente se utilizan para poder ver dos gráficos representados en la misma figura, **Leyendas** nos enseña a añadir leyendas a los gráficos para mostrar en el gráfico lo que estamos representando, normlalmente se añade como un cuadro en la esquina derecha con los diferentes colores o inidicativos que diferencian unos datos de otros, **Imagenes** muestra cómo cargar, visualizar y manipular imágenes utilizando Matplotlib.
+- Seaborn: otra librería de visualización de datos, esta a mas alto nivel. los puntos del tema son **Gráfico relacionales** Seaborn proporciona una interfaz de alto nivel y opciones intuitivas para agregar múltiples dimensiones a las visualizaciones de datos. Además, su integración con Pandas hace que trabajar con datos estructurados sea más fácil y efectivo.
+**Gráficos categóricos** utilizando 4 tipos diferentes de gráficos, el catplot es la representación predeterminada en Seaborn para gráficos categóricos,boxplot que muestra los valores de los cuartiles de la distribución y los valores extremos, el violin plots que es similar al boxplot, pero muestra la distribución completa de los datos y por último el bar plots que representa variables categóricas con barras verticales.**Gráficos de Regresión** se relacionan variables cuantitativas y deteccion de patrones de manera visual, se usan principalmente regplot y lmplot que  permiten visualizar la relación entre dos variables mediante una regresión lineal, el joinplot combina la regresión con la distribución.**Gráficos multiples** con FacetGrid que permite crear subgráficos basados en las categorías de una variable y PairGrid que crea gráficos de pares variables. El siguiente tema es sobre **estilos y colores** que habla sobre como modificar una tabla solo a nivel de aspecto y el último punto es **Distribuiciones** que se habla de:
+    - Histplot: Muestra la distribución de una variable con un histograma, permitiendo personalización.
+    - Displot: Similar a Histplot, pero más flexible para mostrar múltiples distribuciones y personalizar el gráfico.
+    - KDE: Ofrece una estimación suavizada de la densidad de probabilidad, útil para detectar tendencias en la distribución.
+    - ECDF: Muestra la función de distribución acumulativa empírica, revelando la proporción acumulada de datos.
+    - Pairplot: que nos permite ver distintas distribuciones a la vez.
+
+- Todos los ejercicios realizados
+- Examen aprobado
+
+## Talleres DataScience Python (vistos todos)
+- Lectura y escritura de diferentes fuentes con Pandas: enseña principalmente a leer y tratar los datos importandolos desde archivos csv, json, html, pdf y sql.
+- Exploratory Data Analysis con Python: habla sobre extracción de datos,variables y tipos de datos, datos missing,distribución de variables,valores anómalo, correlación entre variables e ineniería e importancia de variables. A un nivel global este curso es un resumen bastante breve de varios cursos de la carrera
+- Caso de estudio con Pandas: casos practicos completos de el analisis de un DataFrame a nivel tablas. Realizado el de las bicis.
+
+Acabadas las dos carreras
+
+  
